@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "Test world",
+      "setup": "pip install numpy",
+      "run": "python3 -m unittest",
+      "input": "",
+      "output": "",
+      "comparison": "exact",
+      "timeout": 2,
+      "points": null
+    }
+  ]
+}
