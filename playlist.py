@@ -22,7 +22,7 @@ display_playlist(my_playlist)
 # 'title' (string)
 # NOTE: Your songs can be whatever you want! The tests will check your FUNCTIONS with their own
 # input, not your print statements (:
-# add_song(my_playlist, {"artist": "ja rule" , "title" : "new york"})
+add_song(my_playlist, {"artist": "ja rule" , "title" : "new york"})
 # print(type(my_playlist))
 '''
 example_song = {'artist': 'Lauryn Hill', 'title': 'Everything Is Everything'}
@@ -34,8 +34,8 @@ display_playlist(my_playlist)
 
 # 5.1 TODO: Add 2 more songs to my_playlist (using the add_song function)
 
-# add_song(my_playlist, {"artist": "jay z" , "title": "empire state of mind"})
-# add_song(my_playlist, {"artist": "nas" , "title" : "n.y. state of mind"})
+add_song(my_playlist, {"artist": "jay z" , "title": "empire state of mind"})
+add_song(my_playlist, {"artist": "nas" , "title" : "n.y. state of mind"})
 
 # 5.2 TODO: Then display it again using the display_playlist() function
 display_playlist(my_playlist)
