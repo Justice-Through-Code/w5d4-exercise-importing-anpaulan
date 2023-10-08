@@ -65,4 +65,4 @@ monthly_plays = [127030, 274920, 232453, 98278, 500301, 235462]
 play_track(my_playlist, 3)
 play_track(my_playlist, 2)
 play_track(my_playlist, )
-# display_playlist(my_playlist)
+display_playlist(my_playlist)
