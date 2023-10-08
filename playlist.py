@@ -38,7 +38,7 @@ add_song(my_playlist, {"artist": "jay z" , "title": "empire state of mind"})
 add_song(my_playlist, {"artist": "nas" , "title" : "n.y. state of mind"})
 
 # 5.2 TODO: Then display it again using the display_playlist() function
-display_playlist(my_playlist)
+# display_playlist(my_playlist)
 
 # 6.1 TODO: In playlist_helpers.py, define a function called get_playlist_length()
 # See playlist_helpers.py for details on how to define this function
