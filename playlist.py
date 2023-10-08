@@ -62,7 +62,7 @@ monthly_plays = [127030, 274920, 232453, 98278, 500301, 235462]
 # 9.0 TODO: In playlist_helpers.py, define a new function called play_track()
 # See playlist_helpers.py for details on how to define this function
 # In this file, play a few tracks, and run display_playlist() again to make sure it works
-play_track(my_playlist, 1)
+play_track(my_playlist, 3)
 play_track(my_playlist, 2)
-play_track(my_playlist, 1)
+play_track(my_playlist, )
 display_playlist(my_playlist)
